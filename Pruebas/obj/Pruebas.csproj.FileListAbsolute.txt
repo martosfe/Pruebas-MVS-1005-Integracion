@@ -1,0 +1,7 @@
+C:\Users\GGM\Documents\Visual Studio 2005\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\GGM\Documents\Visual Studio 2005\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\GGM\Documents\Visual Studio 2005\Projects\Pruebas\Pruebas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GGM\Documents\Visual Studio 2005\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\GGM\Documents\Visual Studio 2005\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\GGM\Documents\Visual Studio 2005\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\GGM\Documents\Visual Studio 2005\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
